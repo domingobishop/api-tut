@@ -14,3 +14,7 @@
 * https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 * https://medium.com/python-pandemonium/build-simple-restful-api-with-python-and-flask-part-2-724ebf04d12
 * https://medium.com/google-cloud/building-api-services-a-beginners-guide-7274ae4c547f
+
+### Further reading
+* https://www.isc.upenn.edu/accessing-mysql-databases-aws-python-lambda-function
+* http://www.rohitprakash.in/inserting-record-in-aws-rds-using-python
