@@ -18,3 +18,4 @@
 ### Further reading
 * https://www.isc.upenn.edu/accessing-mysql-databases-aws-python-lambda-function
 * http://www.rohitprakash.in/inserting-record-in-aws-rds-using-python
+* https://docs.aws.amazon.com/qldb/latest/developerguide/getting-started.python.html
