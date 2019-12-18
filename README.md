@@ -19,3 +19,4 @@
 * https://www.isc.upenn.edu/accessing-mysql-databases-aws-python-lambda-function
 * http://www.rohitprakash.in/inserting-record-in-aws-rds-using-python
 * https://docs.aws.amazon.com/qldb/latest/developerguide/getting-started.python.html
+* https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319
