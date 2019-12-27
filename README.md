@@ -21,3 +21,5 @@
 * https://docs.aws.amazon.com/qldb/latest/developerguide/getting-started.python.html
 * https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319
 * https://www.codementor.io/@dushyantbgs/deploying-a-flask-application-to-aws-gnva38cf0
+* https://www.isc.upenn.edu/accessing-mysql-databases-aws-python-lambda-function
+
